@@ -17,11 +17,16 @@ Each pixel in the image is classified into one of 11 classes.
 ---
 
 ## Dataset
-data-set/
-├── normal_only/   (images)
-└── semantic_only/ (masks)
 
-Each image has a corresponding segmentation mask.
+The dataset is available on Kaggle:
+
+https://www.kaggle.com/datasets/fatemehsariri/data-set
+
+It contains:
+
+data-set/
+├── normal_only/
+└── semantic_only/
 
 ---
 
@@ -43,7 +48,7 @@ There are 11 classes mapped from RGB mask colors.
 Training loss decreases over epochs:
 
 Epoch 1 → 1.8  
-Epoch 5 → 0.86  
+Epoch 5 → 0.71  
 Epoch 10 → 0.64  
 Epoch 15 → 0.51  
 
