@@ -48,8 +48,8 @@ There are 11 classes mapped from RGB mask colors.
 ## Results
 Training loss decreases over epochs:
 
-Epoch 1 → 1.8  
-Epoch 5 → 0.71  
+Epoch 1 → 1.84  
+Epoch 5 → 0.86  
 Epoch 10 → 0.64  
 Epoch 15 → 0.51  
 
