@@ -25,6 +25,7 @@ https://www.kaggle.com/datasets/fatemehsariri/data-set
 It contains:
 
 data-set/
+
 ├── normal_only/
 └── semantic_only/
 
@@ -79,4 +80,4 @@ matplotlib
 ---
 
 ## Author
-Deep learning project for semantic segmentation practice
+This project was developed for educational purposes in deep learning and computer vision.
